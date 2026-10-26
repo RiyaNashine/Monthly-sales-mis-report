@@ -11,6 +11,7 @@ An MIS-style sales report built in Microsoft Excel from a messy sample sales dat
 | `Monthly_Sales_MIS_Report.xlsx` | Final Excel workbook with all sheets |
 | `sales_data_messy.csv` | Raw sales data (512 rows, intentionally messy) |
 | `product_master.csv` | Product Master (10 products: Product ID, Product Name, Category) |
+| `Monthly Sales trend.png`, `Region-wise Sales.png`, `Top 5 Product by Sales.png` | Chart images used in this README |
 
 ## Dataset
 
@@ -28,6 +29,17 @@ The sales table has no product names or categories, so they are brought in from 
 4. **SUMIF Analysis** - region-wise and product-wise total sales
 5. **Clean data** - cleaned sales data with Total Sales, Product Name and Category
 6. **product master** - reference table
+
+## Charts
+
+### Monthly Sales Trend (Jan to Jun 2026)
+![Monthly Sales Trend](Monthly%20Sales%20trend.png)
+
+### Region-wise Total Sales
+![Region-wise Sales](Region-wise%20Sales.png)
+
+### Top 5 Products by Sales
+![Top 5 Products](Top%205%20Product%20by%20Sales.png)
 
 ## Steps followed
 
